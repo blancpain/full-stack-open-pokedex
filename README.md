@@ -15,4 +15,4 @@ Start by running `npm install` inside the project folder
 `npm run start-prod` to run your production build
 
 
-[Link Text](https://github.com/blancpain/fso-part_11_ex11.20)
+GitHub repo for Part 11 exercise 11.20: [Link Text](https://github.com/blancpain/fso-part_11_ex11.20)
